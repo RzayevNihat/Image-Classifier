@@ -2,7 +2,7 @@
 
 This project is an AI-powered image classifier web app built with Flask and TensorFlow. It allows users to upload an image, which the model will classify using a pre-trained VGG19 model.
 
-![Image Classifier]((https://github.com/RzayevNihat/Image-Classifier/blob/main/readme image.png)
+![Image Classifier]((https://github.com/RzayevNihat/Image-Classifier/blob/main/readme.png)
 
 ## Features
 
